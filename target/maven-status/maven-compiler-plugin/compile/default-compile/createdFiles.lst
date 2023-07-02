@@ -1,6 +1,0 @@
-MatchGenerator\domain\Team.class
-MatchGenerator\domain\Match.class
-MatchGenerator\domain\Player.class
-MatchGenerator\logic\MatchGenerator.class
-MatchGenerator\Main.class
-MatchGenerator\ui\UserInterface.class
